@@ -1,4 +1,5 @@
-https://github.com/anmawxz/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+![actions](https://github.com/anmawxz/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 
 # learn-cicd-starter (Notely)
 
